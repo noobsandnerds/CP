@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.program.totalinstaller" name=" [COLOR=orange]C[/COLOR]ommunity [COLOR=orange]P[/COLOR]ortal" version="3.0.1" provider-name="noobsandnerds.com">
+<addon id="plugin.program.totalinstaller" name=" [COLOR=orange]C[/COLOR]ommunity [COLOR=orange]P[/COLOR]ortal" version="3.0.2" provider-name="noobsandnerds.com">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.addon.common" version="2.0.0"/>
@@ -12,7 +12,7 @@
   <extension point="xbmc.addon.metadata">
     <summary lang="en">[COLOR=orange]C[/COLOR]ommunity [COLOR=orange]P[/COLOR]ortal</summary>
 	<description>Your all in one Installer. The simplest way to have a fully setup system in a matter of minutes. Visit www.noobsandnerds.com and become a part of our great family, you get to choose what The Community Portal holds!</description>
-    <ref>76c0a4fc585789da541eb6548305c013</ref>
+    <ref>c8b7e82447b52ce2962abb92620f0e53</ref>
     <platform>all</platform>
   </extension>
 </addon>
